@@ -45,6 +45,7 @@ body{
     animation: clouds 20s infinite linear;
 }
 #refresh{
+    margin-left: 40%;
     padding: 20px;
     font-size: 20px;
     background-color: yellow;
